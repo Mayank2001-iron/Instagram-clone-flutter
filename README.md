@@ -17,4 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-![Home](lib/intagram-clone-screenshots/reels.jpg "home")
+![Home](screenshot\mainscreen.png)
+![Explore](screenshot\search.png)
+![Reels](screenshot\reels.png)
+![Notifiacation](screenshot\notification.png)
+![Profile](screenshot\profile.png)
