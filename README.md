@@ -13,10 +13,10 @@ An Instagram clone project showcasing the frontend development of the popular so
 ## Screenshots
 
 <img width="250" alt="mainscreen" src="https://github.com/Mayank2001-iron/Instagram-clone-flutter/assets/76560885/7a55f927-49d6-4e58-be77-feced7310196">
-![Explore](https://user-images.githubusercontent.com/76560885/278597545-6fbbff07-b7ec-4138-a878-618fe6dace51.png)
-![Reels](https://user-images.githubusercontent.com/76560885/278597520-93cc84ba-9fbf-4706-b23b-86a007ac41fa.png)
-![Notifiacation](https://user-images.githubusercontent.com/76560885/278597497-a99adb36-b772-4a61-9219-9ba4d7800536.png)
-![Profile](https://user-images.githubusercontent.com/76560885/278597504-c529e36f-91a9-4510-b335-fb210220c011.png)
+<img width="250" alt="search" src="https://github.com/Mayank2001-iron/Instagram-clone-flutter/assets/76560885/6fbbff07-b7ec-4138-a878-618fe6dace51">
+<img width="250" alt="reels" src="https://github.com/Mayank2001-iron/Instagram-clone-flutter/assets/76560885/93cc84ba-9fbf-4706-b23b-86a007ac41fa">
+<img width="250" alt="profile" src="https://github.com/Mayank2001-iron/Instagram-clone-flutter/assets/76560885/c529e36f-91a9-4510-b335-fb210220c011">
+<img width="250" alt="notification" src="https://github.com/Mayank2001-iron/Instagram-clone-flutter/assets/76560885/a99adb36-b772-4a61-9219-9ba4d7800536">
 
 
 ## Features
