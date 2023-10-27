@@ -12,7 +12,7 @@ An Instagram clone project showcasing the frontend development of the popular so
 
 ## Screenshots
 
-![Home](https://user-images.githubusercontent.com/76560885/278597475-7a55f927-49d6-4e58-be77-feced7310196.png)
+![Home](https://user-images.githubusercontent.com/76560885/278597475-7a55f927-49d6-4e58-be77-feced7310196.png|width=250)
 ![Explore](https://user-images.githubusercontent.com/76560885/278597545-6fbbff07-b7ec-4138-a878-618fe6dace51.png)
 ![Reels](https://user-images.githubusercontent.com/76560885/278597520-93cc84ba-9fbf-4706-b23b-86a007ac41fa.png)
 ![Notifiacation](https://user-images.githubusercontent.com/76560885/278597497-a99adb36-b772-4a61-9219-9ba4d7800536.png)
